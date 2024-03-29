@@ -15,9 +15,9 @@ Table of Contents
 
 
 * [About Me](#about-me)
-* Projects
-    - <a href="https://github.com/costelburuiana/selenium">Selenium Testing</a>
-    - <a href="https://github.com/costelburuiana/api_test">RESRful API Testing</a> 
+* [Projects](#projects)
+    - <a href="https://github.com/costelburuiana/selenium">Selenium UI Testing</a>
+    - <a href="https://github.com/costelburuiana/api_test">RESTful API Testing</a> 
 * [Skills](#skills)
 * [Certifications](#certifications)
 * [Contact Information](#contact-information)
